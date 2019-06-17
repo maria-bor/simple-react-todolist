@@ -1,0 +1,10 @@
+body {
+  padding: 50px;
+  background-color: rgb(187, 220, 236);
+  font-family: sans-serif;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+}
